@@ -1,1 +1,1 @@
-web: gunicorn finances_mamager.wsgi
+web: gunicorn finances_manager.wsgi
